@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-28T22:17:32 IST" name="Default suite" finished-at="2026-09-28T22:17:41 IST" duration-ms="8369">
+  <suite started-at="2026-10-17T21:02:50 IST" name="Default suite" finished-at="2026-10-17T21:03:18 IST" duration-ms="28108">
     <groups>
     </groups>
-    <test started-at="2026-09-28T22:17:32 IST" name="Default test" finished-at="2026-09-28T22:17:41 IST" duration-ms="8369">
-      <class name="selenium.Automation_Testing_Website.DrapAndDropTest">
-        <test-method is-config="true" signature="openWeb()[pri:0, instance:selenium.Automation_Testing_Website.DrapAndDropTest@77888435]" started-at="2026-09-28T22:17:32 IST" name="openWeb" finished-at="2026-09-28T22:17:41 IST" duration-ms="8156" status="PASS">
+    <test started-at="2026-10-17T21:02:50 IST" name="Default test" finished-at="2026-10-17T21:03:18 IST" duration-ms="28108">
+      <class name="selenium.Automation_Testing_Website.ClickLinksTest">
+        <test-method is-config="true" signature="openWeb()[pri:0, instance:selenium.Automation_Testing_Website.ClickLinksTest@4802796d]" started-at="2026-10-17T21:02:50 IST" name="openWeb" finished-at="2026-10-17T21:03:14 IST" duration-ms="23902" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openWeb -->
-        <test-method signature="draganddrop()[pri:0, instance:selenium.Automation_Testing_Website.DrapAndDropTest@77888435]" started-at="2026-09-28T22:17:41 IST" name="draganddrop" finished-at="2026-09-28T22:17:41 IST" duration-ms="164" status="PASS">
+        <test-method signature="link()[pri:0, instance:selenium.Automation_Testing_Website.ClickLinksTest@4802796d]" started-at="2026-10-17T21:03:14 IST" name="link" finished-at="2026-10-17T21:03:18 IST" duration-ms="4167" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- draganddrop -->
-      </class> <!-- selenium.Automation_Testing_Website.DrapAndDropTest -->
+        </test-method> <!-- link -->
+      </class> <!-- selenium.Automation_Testing_Website.ClickLinksTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
